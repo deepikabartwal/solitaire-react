@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
-import './App.css';
-import Deck from './deck'
+import Table from './table'
 class App extends Component {
   render() {
     return (
-      <Deck/>
+      <Table/>
     );
   }
 }
